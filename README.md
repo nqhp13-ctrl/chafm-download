@@ -9,7 +9,7 @@ Kho này không chứa mã nguồn, khóa ký hay dữ liệu của bất kỳ a
 
 | Phiên bản | Tệp | SHA-256 |
 |---|---|---|
-| 1.2.0 | `CHAFM.apk` | `211155c30a9cc24c586b008ab80384d48d584c05653dc8fbd7a2cbb2970eff26` |
+| 1.2.0 | `CHAFM-1.2.0.apk` | `211155c30a9cc24c586b008ab80384d48d584c05653dc8fbd7a2cbb2970eff26` |
 
 Mọi bản CHAFM chính thức được ký bằng cùng một chứng chỉ
 (SHA-256 `1bae730cab1ae53d402e2a6c3cd81884ff88cf8a80162855b06cc3541ea72e16`).
